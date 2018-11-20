@@ -2,7 +2,7 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello, World and solo Khalid");
+        System.out.println("Hello, World and solo Khalid et son amour Meriem.");
     }
 
 }
